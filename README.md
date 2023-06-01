@@ -7,3 +7,5 @@ git commit
 git push
 # introduxco un cambio para git pull
 hola pulli pulli!!
+# otro cambio para interiorizar lasecuencia!
+vamos a Riglos :)
