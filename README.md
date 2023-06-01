@@ -9,3 +9,5 @@ git push
 hola pulli pulli!!
 # otro cambio para interiorizar lasecuencia!
 vamos a Riglos :)
+# vamosa crear un conflicto ;)
+introduzco línea para crear conflicto
